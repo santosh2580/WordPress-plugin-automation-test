@@ -1,0 +1,37 @@
+ summary of the task:
+
+Login to WordPress:
+
+Navigate to login page and log in with admin credentials.
+
+Capture screenshot of login page and success.
+
+Check Plugin Status:
+
+Check if "Everest Forms" plugin is activated or not.
+
+Navigate to Plugins Page:
+
+Go to the plugins page and check for plugin status.
+
+Deactivate Plugin (if active):
+
+Deactivate the plugin if it is already active to demonstrate full workflow.
+
+Install Everest Forms Plugin:
+
+Navigate to plugin installation page and search for "Everest Forms."
+
+Install the plugin if not already installed.
+
+Activate Plugin:
+
+Activate "Everest Forms" after installation if not already active.
+
+Create Custom Welcome Message:
+
+Create and display a custom "Welcome to Everest Forms" message using JavaScript.
+
+Verify Steps:
+
+Verify plugin installation and activation, ensuring the welcome message is displayed.
